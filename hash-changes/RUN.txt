@@ -1,0 +1,4 @@
+Starting Height: 5200791
+Heights: 4297
+Transitions: 10000
+
